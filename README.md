@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anshul Gupta</h1>
-<h3 align="center">I am a Second Year Student Pursuing Computer Science Engineering @ Chandigarh Group Of Colleges. I Have Expertise in Full Stack Web Development With a Keen Interest in Competitive Coding. I am Passionate About Implementing and Launching New Challenging Projects and Have an Ability to Translate Business Requirements Into Technical Solutions. I Aspire to Work in a Challenging and Learning Environment Where my Soft/Hard Skills can be Used to Help me Grow as an Individual and as a Team Player.</h3>
+<h3 align="center">I am a Third Year Student Pursuing Computer Science Engineering @ Chandigarh Group Of Colleges. I Have Expertise in Full Stack Web Development With a Keen Interest in Competitive Coding. I am Passionate About Implementing and Launching New Challenging Projects and Have an Ability to Translate Business Requirements Into Technical Solutions. I Aspire to Work in a Challenging and Learning Environment Where my Soft/Hard Skills can be Used to Help me Grow as an Individual and as a Team Player.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwat-thama&label=Profile%20views&color=0e75b6&style=flat" alt="ashwat-thama" /> </p>
 
