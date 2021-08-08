@@ -1,3 +1,4 @@
+<img src="https://www.skuchain.com/wp-content/uploads/2018/01/Hyperledger_Developer_Graphic_banner_v3-02-2.jpg" align="center"/>
 <h1 align="center" font-size="35px">Hi 👋, I'm Anshul Gupta</h1>
 <h3 align="center"><-----A Boy trying to Figure-Out Stuff!!-----></h3>
 <h3 align="center">I am a Third Year Student Pursuing Computer Science Engineering @ Chandigarh Group Of Colleges. I Have Expertise in Full Stack Web Development With a Keen Interest in Competitive Coding. I am Passionate About Implementing and Launching New Challenging Projects and Have an Ability to Translate Business Requirements Into Technical Solutions. I Aspire to Work in a Challenging and Learning Environment Where my Soft/Hard Skills can be Used to Help me Grow as an Individual and as a Team Player.</h3>
