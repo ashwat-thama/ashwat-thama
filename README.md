@@ -1,11 +1,12 @@
-<img src="https://www.skuchain.com/wp-content/uploads/2018/01/Hyperledger_Developer_Graphic_banner_v3-02-2.jpg" align="center"/>
-<h1 align="center" font-size="35px">Hi 👋, I'm Anshul Gupta</h1>
-<h3 align="center"><-----A Boy trying to Figure-Out Stuff!!-----></h3>
-<h3 align="center">I am a Third Year Student Pursuing Computer Science Engineering @ Chandigarh Group Of Colleges. I Have Expertise in Full Stack Web Development With a Keen Interest in Competitive Coding. I am Passionate About Implementing and Launching New Challenging Projects and Have an Ability to Translate Business Requirements Into Technical Solutions. I Aspire to Work in a Challenging and Learning Environment Where my Soft/Hard Skills can be Used to Help me Grow as an Individual and as a Team Player.</h3>
+<h1 align="center">Hi 👋, I'm Anshul Gupta</h1>
+<h3 align="center">I am a Second Year Student Pursuing Computer Science Engineering @ Chandigarh Group Of Colleges. I Have Expertise in Full Stack Web Development With a Keen Interest in Competitive Coding. I am Passionate About Implementing and Launching New Challenging Projects and Have an Ability to Translate Business Requirements Into Technical Solutions. I Aspire to Work in a Challenging and Learning Environment Where my Soft/Hard Skills can be Used to Help me Grow as an Individual and as a Team Player.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwat-thama&label=Profile%20views&color=0e75b6&style=flat" alt="ashwat-thama" /> </p>
 
-- 🌱 I’m currently learning **Python And Django** <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" align="right" width="400" height="300"/>          
+- 🌱 I’m currently learning **Python And Django** <img src="https://cdn.dribbble.com/users/916023/screenshots/14092938/media/0603a152d476dfb045fb4ee9c03c9681.png?compress=1&resize=800x600" align="right" width="400px" height="250px"/>
+
+- 👨‍💻 All of my projects are available at [https://ashwat-thama.github.io/anshul-gupta/](https://ashwat-thama.github.io/anshul-gupta/)
+
 - 💬 Ask me about **Front-End Related Stuffs**
 
 - 📫 How to reach me **anshulgupta96626@gmail.com**
